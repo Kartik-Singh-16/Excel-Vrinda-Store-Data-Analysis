@@ -6,7 +6,11 @@ This repository contains the data analysis for Vrinda Store's annual sales repor
 
 ## Files
 
-- **Vrinda_Store_Sales_Report_2022.xlsx**: The Excel file containing the raw data and pivot tables used for the analysis.
+- **Vrinda_Store_Sales_Report_2022.xlsx**: The Excel file containing the raw data used for the analysis.
+
+<hr>
+<img width="894" alt="Screenshot 2023-11-11 161720" src="https://github.com/Kartik-Singh-16/Excel-Vrinda-Store-Data-Analysis/assets/127671035/ab67cbed-2257-4af2-ba7e-a6a323296eaf">
+<hr>
 
 ## Key Insights
 
